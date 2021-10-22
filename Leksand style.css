@@ -1,0 +1,41 @@
+body {background-color: rgb(144, 152, 196);}
+
+
+h1{
+
+font-size: 60px;
+padding: 1px;
+border: 2px solid rgb(63, 48, 151);
+margin-top: 1px;
+background-color: rgb(81, 81, 173);
+}
+
+p{
+font-size: 18px;
+font-style: italic;
+}
+.text{
+    margin-top: 40px;
+}
+
+h4{
+font-size: 40px;
+color: rgb(190, 16, 16);
+font-style: italic;
+}
+
+div.form2 {
+margin-left: 200px;
+margin-top: -189px;
+
+}
+
+div.bild1 {
+margin-left: 450px;
+margin-top: -270px;
+}
+
+div.bild2{
+margin-left: 700px;
+margin-top: -100px;
+}
